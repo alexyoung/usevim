@@ -3,4 +3,5 @@
  , "permalink": "/:year/:month/:day/:title"
  , "perPage": 10
  , "exclude": ["\\.swp"]
+ , "require": ["pop-disqus"]
  , "autoGenerate": [{"feed": "feed.xml", "rss": "feed.rss"}] }
