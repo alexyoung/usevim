@@ -1,0 +1,5 @@
+*.sw?
+_site
+.DS_Store
+tmp/*
+_drafts/

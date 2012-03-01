@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+h1 Tags
+
+p Click a tag to view the associated posts.
+
+.tag-list
+  - var tags = allTags();
+  - if (tags && tags.length > 0)
+    - for (var i = 0, tag = tags[0], posts = postsForTag(tag); i < tags.length; i++, tag = tags[i], posts = postsForTag(tag))
+      h2(id=tag)
+        a.tag(href="#") (#{posts.length}) #{tag}
+      .posts
+        - for (var j = 0, post = posts[j]; j < posts.length; j++, post = posts[j])
+          p
+            a(href="#{post.url}") #{post.title}

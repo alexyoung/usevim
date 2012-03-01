@@ -1,0 +1,17 @@
+!!! 5
+html(lang="en")
+  head
+    title #{site.config.title}
+    link(href="/stylesheets/screen.css", media="screen", rel="stylesheet", type="text/css")
+    link(rel="alternate", type="application/rss+xml", title="RSS 2.0", href="http://feeds.feedburner.com/usevim")
+    link(rel="alternate", type="application/atom+xml", title="Atom Feed", href="http://feeds.feedburner.com/usevim")
+    script(type="text/javascript", src="/javascripts/jquery-1.7.1.min.js")
+    script(type="text/javascript", src="/javascripts/site.js")
+  body
+    !{include('header')}
+    section#container.content
+      #content
+        !{content}
+      !{include('sidebar')}
+    footer
+      p.copyright Content &copy; usevim

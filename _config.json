@@ -1,0 +1,6 @@
+{  "url": "http://usevim.com"
+ , "title": "usevim"
+ , "permalink": "/:year/:month/:day/:title"
+ , "perPage": 10
+ , "exclude": ["\\.swp"]
+ , "autoGenerate": [{"feed": "feed.xml", "rss": "feed.rss"}] }
