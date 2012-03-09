@@ -35,6 +35,8 @@ The author has tested it in Mac OS and Linux, but is looking for help with the L
 
 ### vim-smartpunc
 
-[vim-smartpunc](https://github.com/kana/vim-smartpunc) (License: _MIT/X_) by Kana Natsuno automatically pairs punctuation.  Brackets, curly braces, quotes, and various language constructs are closed automatically.  Also, pressing a backspace will remove the entire completion.
+[vim-smartpunc](https://github.com/kana/vim-smartinput) (License: _MIT/X_) by Kana Natsuno automatically pairs punctuation.  Brackets, curly braces, quotes, and various language constructs are closed automatically.  Also, pressing a backspace will remove the entire completion.
 
 Vim 7.3+ is required, and the plugin comes with relatively detailed documentation: [vim-smartpunc HTML documentation](http://vim-doc.heroku.com/view?https://raw.github.com/kana/vim-smartpunc/master/doc/smartpunc.txt).
+
+_Note:_ This plugin was renamed to _vim-smartinput_.  Thanks to Daniel Hofstetter for noticing!
