@@ -16,7 +16,7 @@ Send in your Vim plugins for review through our <a href="/contact.html">contact 
 
 ![Syntastic screenshot](/images/posts/syntastic.png)
 
-[Syntastic](https://github.com/suderman/source.vim) (vim.org: [Syntastic](http://www.vim.org/scripts/script.php?script_id=2736)) by Martin Grenfell is a syntax checking plugin.  Syntax can be checked on demand, or when a file is saved and opened.
+[Syntastic](https://github.com/scrooloose/syntastic) (vim.org: [Syntastic](http://www.vim.org/scripts/script.php?script_id=2736)) by Martin Grenfell is a syntax checking plugin.  Syntax can be checked on demand, or when a file is saved and opened.
 
 The syntax checking plugins have their own dependencies, so have a look at the `syntax_checkers` directory to see how they work -- some should work out of the box.
 
