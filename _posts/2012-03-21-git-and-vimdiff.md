@@ -2,7 +2,7 @@
 layout: post
 title: "Git and Vimdiff"
 author: "Alex Young"
-tags:   
+tags:
 - git
 - vimdiff
 ---
