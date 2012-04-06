@@ -5,6 +5,7 @@ author: "Alex Young"
 tags:
 - vim101
 - editing
+- substitute
 ---
 
 In this article I assume the reader has a basic knowledge of regular expressions.  To read about how Vim uses regular expressions, take a look at the pattern section of the Vim manual in `:help pattern`.
