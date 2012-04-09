@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clam, Vroom.vim, Gist.vim"
+title: "Plugin Roundup: Clam, Vroom.vim, Gist.vim"
 author: "Alex Young"
 tags: 
 - plugins
