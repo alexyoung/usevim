@@ -44,7 +44,7 @@ In the last step, most people would expect the original yanked line to appear, b
 * `yy` -- Yank a line
 * Move to a different line
 * `dd` -- Delete the line
-* `0p` -- Put the deleted line from register `0`
+* `"0p` -- Put the deleted line from register `0`
 
 ###Named Registers
 
