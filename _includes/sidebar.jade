@@ -1,5 +1,16 @@
 #sidebar
   ul
+    li
+      #carbonads-container
+        .carbonad
+          #carbon
+          script(type="text/javascript")
+            var z = document.createElement("script");
+            z.type = "text/javascript";
+            z.async = true;
+            z.src = "http://engine.carbonads.com/z/15515/carbon_2_1_0_VERT";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(z, s);
     li.itemlist
       h3 Subscribe
       ul.subscribe
