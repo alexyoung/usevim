@@ -13,7 +13,7 @@ Send in your Vim scripts for review through our <a href="/contact.html">contact 
 
 ###EasyMotion
 
-[EasyMotion](http://www.vim.org/scripts/script.php?script_id=3526) (GitHub: [Lokaltog / vim-easymotion](https://github.com/Lokaltog/vim-easymotion)) by Kim Silkebækken (who also wrote [Powerline](https://github.com/Lokaltog/vim-powerline)) helps make Vim's motions easier to visualise by highlighting the possible choices for motions like `f`:
+[EasyMotion](http://www.vim.org/scripts/script.php?script_id=3526) (GitHub: [Lokaltog / vim-easymotion](https://github.com/Lokaltog/vim-easymotion)) by Kim Silkebaekken (who also wrote [Powerline](https://github.com/Lokaltog/vim-powerline)) helps make Vim's motions easier to visualise by highlighting the possible choices for motions like `f`:
 
 It takes the `<number>` out of `<number>w` or `<number>f{char}` by highlighting all possible choices and allowing you to press one key to jump directly to the target.
 
