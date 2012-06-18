@@ -4,6 +4,7 @@ title: "Vim 101: Repeating Commands"
 author: "Alex Young"
 tags:
 - vim101
+- repeating
 ---
 <div class="aside">
 <strong>Hint:</strong> To make your Vim look the same as my screenshots, download <a href="https://gist.github.com/e5d5ce6488ed066a657d">usevim-vimrc</a> and run Vim with <code>vim -u usevim-vimrc</code>.
