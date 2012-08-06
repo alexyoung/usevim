@@ -8,6 +8,10 @@ tags:
 - gui
 ---
 
+<div class="intro">
+Send in your Vim scripts for review through our <a href="/contact.html">contact form</a> or <a href="http://twitter.com/vimnews">@vimnews</a>.
+</div>
+
 ###Forms
 
 ![Forms](/images/posts/forms.png)
