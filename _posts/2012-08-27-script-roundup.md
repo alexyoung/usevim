@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Script Roundup: undotree.vim"
+title: "Script Roundup: undotree.vim, dwm.vim"
 author: "Alex Young"
 tags: 
 - plugins
