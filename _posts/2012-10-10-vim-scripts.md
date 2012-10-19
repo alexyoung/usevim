@@ -5,6 +5,7 @@ author: "Alex Young"
 tags: 
 - plugins
 - scripts
+- scripting
 ---
 
 It's actually quite difficult to use Vim _without_ writing a script.  We install plugins all the time, and the superficial complexity of the average plugin's source code may make writing Vim scripts seem impenetrable.  However, believe it or not you've probably already written a Vim script in the form of your vimrc file.
