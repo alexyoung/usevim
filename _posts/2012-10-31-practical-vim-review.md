@@ -7,6 +7,8 @@ tags:
 - reviews
 ---
 
+<img src="/images/posts/dnvim.png" style="float: right; margin: 0 0 10px 10px; border: 1px solid #ddd; padding: 4px" alt="Practical Vim cover" />
+
 There aren't a lot of great books about Vim.  <a href="http://www.amazon.co.uk/gp/product/059652983X/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=059652983X&linkCode=as2&tag=da0b-21">Learning the vi and Vim Editors</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=da0b-21&l=as2&o=2&a=059652983X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> published by O'Reilly is the most popular book, and while it's fairly detailed I've always felt it loses focus by including too much coverage of vi clones.  The content is dry, feeling more like a standard manual than an affable educational guide.
 
 In contrast, [Practical Vim: Edit Text at the Speed of Thought](http://pragprog.com/book/dnvim/practical-vim) (<a href="http://www.amazon.co.uk/gp/product/1934356980/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1934356980&linkCode=as2&tag=da0b-21">Amazon</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=da0b-21&l=as2&o=2&a=1934356980" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />) by Drew Neil draws on the personality and experience of the author -- and this is a good thing.  There was a lot of excitement around this book, as the author is behind the popular [Vimcasts](http://vimcasts.org/) site.  Drew has done a lot to make Vim accessible to more popular, and he's distilled all of this in _Practical Vim_.
