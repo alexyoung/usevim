@@ -4,9 +4,8 @@ title: "Script Roundup: textobj-indblock, qfnotes"
 author: "Alex Young"
 tags: 
 - plugins
-- tabs
-- ruby
-- testing
+- textobjects
+- quickfix
 ---
 
 <div class="intro">
