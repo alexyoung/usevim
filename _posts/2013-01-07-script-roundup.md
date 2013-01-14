@@ -4,6 +4,8 @@ title: "Script Roundup: vim-steam, File Pirate"
 author: "Alex Young"
 tags: 
 - plugins
+- games
+- navigation
 ---
 
 <div class="intro">
