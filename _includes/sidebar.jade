@@ -12,6 +12,11 @@
             var s = document.getElementsByTagName("script")[0];
             s.parentNode.insertBefore(z, s);
     li.itemlist
+      h3 Search
+      form(class="navbar-search", action="http://www.google.com/search", method="get")
+        input(name="sitesearch", type="hidden", value="usevim.com")
+        input(type="text", class="search-query", name="q", placeholder="Search")
+    li.itemlist
       h3 Subscribe
       ul.subscribe
         li.links

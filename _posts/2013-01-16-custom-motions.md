@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Custom Motions"
+title: "Custom Motions Part 1"
 author: "Alex Young"
 tags: 
 - motions
