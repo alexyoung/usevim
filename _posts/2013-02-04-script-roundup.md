@@ -15,7 +15,7 @@ Send in your Vim scripts for review through our <a href="/contact.html">contact 
 
 ###movar
 
-[Inspired by the VimLondon meetup](https://twitter.com/robmil/status/296658616088395779), Rob Miller wrote movar (GitHub: [robmiller / vim-movar](https://github.com/robmiller/vim-movar)) which adds some motions for moving around variables in PHP and Ruby.  He's used the `onoremap` command with a function that builds up a string that searches using `searchpos`.
+[Inspired by the Vim London meetup](https://twitter.com/robmil/status/296658616088395779), Rob Miller wrote movar (GitHub: [robmiller / vim-movar](https://github.com/robmiller/vim-movar)) which adds some motions for moving around variables in PHP and Ruby.  He's used the `onoremap` command with a function that builds up a string that searches using `searchpos`.
 
 Typing `av` will select _around_ a variable, while `iv` selects _inner_ variables (thereby ignoring the variable's prefix, like `$`).  These motions work with operators as well, so you can delete, change, or yank.
 
