@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vim 101: Pasting into Command-line Mode"
+title: "Vim 101: Pasting Into Command-line Mode"
 author: "Alex Young"
 tags: 
 - vim101
