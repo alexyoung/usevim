@@ -5,6 +5,7 @@ author: "Alex Young"
 tags: 
 - plugins
 - tmux
+- git
 ---
 
 <div class="intro">
