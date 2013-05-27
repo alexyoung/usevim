@@ -4,6 +4,8 @@ title: "Script Roundup: vim-bgimg, CoVim"
 author: "Alex Young"
 tags: 
 - plugins
+- images
+- collaboration
 ---
 
 <div class="intro">
