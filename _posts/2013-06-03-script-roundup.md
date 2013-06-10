@@ -4,6 +4,8 @@ title: "Script Roundup: Vim Table Mode, Move Until Char Changes"
 author: "Alex Young"
 tags: 
 - plugins
+- tables
+- motion
 ---
 
 <div class="intro">
