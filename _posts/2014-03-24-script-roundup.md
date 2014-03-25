@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Script Roundup: Pterosaur, Pterosaur"
+title: "Script Roundup: Pterosaur, Arrow Key Repurpose"
 author: "Alex Young"
 tags: 
 - scripts
