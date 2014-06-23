@@ -5,7 +5,7 @@ author: "Alex Young"
 tags: 
 - scripts
 - plugins
-- games
+- shell
 ---
 
 ###v
