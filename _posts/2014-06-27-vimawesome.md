@@ -8,7 +8,7 @@ tags:
 - websites
 ---
 
-![VimAwesome](/images/posts/vimawesome.png)
+![VimAwesome](/images/posts/vimawesome.png?v=1)
 
 One of the things I do when looking for Vim scripts and programming libraries is check the number of GitHub watchers.  If the project looks technically solid but has low attention, then I'll probably write about it or use it.  If it has thousands of stars then I know it's probably pretty cool and should do what I want.
 
