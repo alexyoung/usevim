@@ -5,6 +5,8 @@ author: "Alex Young"
 tags: 
 - scripts
 - plugins
+- gist
+- github
 ---
 
 ###limelight.vim
