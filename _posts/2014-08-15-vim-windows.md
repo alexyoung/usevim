@@ -26,15 +26,15 @@ When I configure a new Unix system I use a script to invoke the package manager 
 cinst cmder
 {% endhighlight %}
 
-Once you've got Cmder and Vim installed, you might want to do some Windows specific tweaks to make things work really well.  Santiago Aguero has written two blog posts about this:
-
-* [Get rid of windows console and embrace cmder](http://santiagoaguero.com/get-rid-of-windows-console-and-embrace-cmder/)
-* [Vim in Windows: Part 1](http://santiagoaguero.com/vim-in-windows-part-1/)
-
 Here's a screenshot after I downloaded Chocolatey and installed Cmder and Vim:
 
 ![Windows 8 Vim](/images/posts/windows8vim.png)
 
 Notice the multiple tabs!
+
+Once you've got Cmder and Vim installed, you might want to do some Windows specific tweaks to make things work really well.  Santiago Aguero has written two blog posts about this:
+
+* [Get rid of windows console and embrace cmder](http://santiagoaguero.com/get-rid-of-windows-console-and-embrace-cmder/)
+* [Vim in Windows: Part 1](http://santiagoaguero.com/vim-in-windows-part-1/)
 
 The Vim in Windows post was only published yesterday, so hopefully he'll keep posting more Windows specific Vim tricks.  It shows how to set up 256 colours with the [Bad Wolf theme](https://github.com/sjl/badwolf/), which looks very clear and usable to me.
