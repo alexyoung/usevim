@@ -3,7 +3,6 @@ layout: post
 title: "Emacs Evil Mode and SLIME"
 author: "Alex Young"
 tags: 
-- videos
 - emacs
 - vim
 ---
