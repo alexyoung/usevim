@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google Colour Schema"
+title: "Google Colour Scheme"
 author: "Alex Young"
 tags: 
 - themes
