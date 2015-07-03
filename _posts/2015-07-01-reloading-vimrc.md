@@ -14,3 +14,4 @@ There's a really cool section in [Learn Vimscript the Hard Way](http://learnvims
 
 Also, if you're bogged down with a long settings file, why not [use folds to tidy it up](http://usevim.com/2012/05/09/clean-vimrc/)? And if you're not too sure about folds, then [I wrote an introduction to them](http://usevim.com/2012/08/31/vim101-folding/) back in 2012.
 
+_Update_: Piotr S. wrote in to say you can make Vim automatically write your settings file by using `autocmd bufwritepost .vimrc source $MYVIMRC`.
